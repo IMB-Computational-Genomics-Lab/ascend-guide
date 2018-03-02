@@ -1,4 +1,4 @@
-## Guide to' ascend'ing
+## 'ascend'
 
 Welcome to **ascend** (Analysis of Single Cell Expression, Normalisation and Differential expression).
 
